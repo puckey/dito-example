@@ -120,12 +120,14 @@ export const dummy = {
 
     messages: {
       label: 'Messages',
+      defaultTab: true,
       components: {
         messages: {
           type: 'list',
           width: '100%',
           form: import('./message'),
-          inlined: true,
+          inlined: false,
+          editable: true,
           creatable: true,
           draggable: true,
           deletable: true

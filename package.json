@@ -35,8 +35,8 @@
     "yarn": ">= 1.0.0"
   },
   "dependencies": {
-    "@ditojs/server": "^0.193.0",
-    "@ditojs/utils": "^0.193.0",
+    "@ditojs/server": "^0.197.0",
+    "@ditojs/utils": "^0.197.0",
     "core-js": "^3.6.5",
     "knex": "^0.21.12",
     "koa-static": "^5.0.0",
@@ -53,7 +53,7 @@
     "@babel/node": "^7.12.6",
     "@babel/plugin-transform-runtime": "^7.12.1",
     "@babel/preset-env": "^7.12.1",
-    "@ditojs/babel-preset": "^0.193.0",
+    "@ditojs/babel-preset": "^0.197.0",
     "@vue/cli-plugin-babel": "^4.5.9",
     "@vue/cli-plugin-eslint": "^4.5.9",
     "@vue/cli-service": "^4.5.9",
